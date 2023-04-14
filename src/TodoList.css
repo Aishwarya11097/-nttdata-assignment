@@ -1,0 +1,18 @@
+.addItem{
+
+}
+
+.todoList{
+        display: flex;
+        height:20px;
+        justify-content: center;
+        align-items: left;
+        margin-left: auto;
+        
+}
+
+.mainDiv{
+    justify-content: center;
+    align-items: center;
+    
+}
